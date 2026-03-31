@@ -1,0 +1,5 @@
+{
+  "name": "SecureStock - Supermarket Inventory System",
+  "description": "A secure, real-time inventory management system for supermarkets with RBAC, stock tracking, and supplier management.",
+  "requestFramePermissions": []
+}
