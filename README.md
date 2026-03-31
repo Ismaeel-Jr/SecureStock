@@ -78,7 +78,7 @@ Database
 
 Configurable (Relational or NoSQL)
 Installation and Setup
-git clone https://github.com/your-username/SecureStock.git
+git clone https://github.com/Ismaeel-Jr/SecureStock.git
 cd SecureStock
 npm install
 Environment Configuration
